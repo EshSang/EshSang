@@ -1,5 +1,4 @@
-
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.digitalsolutionservices.com/img/services/web%20development.gif))](https://rishavchanda.io)
+<img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
 <h1 align="center">Hi 👋, I'm Eshana Sangeeth</h1>
 <h3 align="center">A passionate frontend developer and power platfrom developer from Sri Lanka</h3>
 
