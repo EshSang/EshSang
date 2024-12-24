@@ -1,7 +1,7 @@
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
 <h1 align="center">Hi 👋, I'm Eshana Sangeeth</h1>
 <h3 align="center">A passionate frontend developer and power platfrom developer from Sri Lanka</h3>
-<img src = "Git Profile.gif" width = "400px">
+<img src = "Git Profile.gif" width = "400" alt = "Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshsang&label=Profile%20views&color=0e75b6&style=flat" alt="eshsang" /> </p>
 
