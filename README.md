@@ -1,4 +1,9 @@
-<img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
+<html>
+  <head>
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  </head>
+  <body>
+    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
 <h1 align="center">Hi 👋, I'm Eshana Sangeeth</h1>
 <h3 align="center">A passionate frontend developer and power platfrom developer from Sri Lanka</h3>
 <img src = "Git Profile.gif" width = "400" alt = "Coding" align = "right">
@@ -32,7 +37,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshsang&show_icons=true&locale=en" alt="eshsang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshsang&" alt="eshsang" /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="eshana-sangeeth" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/eshana-sangeeth?trk=profile-badge">Eshana Sangeeth</a></div>
               
+  </body>
+</html>
+
 
