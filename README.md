@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/eshana_sangeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshana_sangeeth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eshana-sangeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshana-sangeeth" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15898543/eshana-sangeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15898543/eshana-sangeeth" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15898543/eshana-sangeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15898543/eshana-sangeeth" height="30" width="40" /></a>
 <a href="https://instagram.com/eshana.sangeeth?igsh=ehjzemdiymf3zhg2&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshana.sangeeth?igsh=ehjzemdiymf3zhg2&utm_source=qr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@powerplatformsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@powerplatformsolutions" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PowerPlatformSolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@powerplatformsolutions" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
